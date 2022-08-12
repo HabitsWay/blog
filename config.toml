@@ -1,4 +1,4 @@
-baseURL = "https://habitsway.github.io/blog.github.com"
+baseURL = "https://habitsway.github.io/blog"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "es"
 # language code
