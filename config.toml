@@ -6,7 +6,7 @@ languageCode = "en"
 title = "Habits Blog"
 
 # Change the default theme to be use when building the site with Hugo
-theme = "DoIt"
+theme = "DoItHabits"
 
 [params]
 # DoIt theme version

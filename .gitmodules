@@ -1,0 +1,3 @@
+[submodule "themes/DoItHabits"]
+	path = themes/DoItHabits
+	url = https://github.com/HabitsWay/DoIt-Habits-Theme.git
