@@ -47,3 +47,5 @@ weight = 3
 [markup.highlight]
 # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
 noClasses = false
+
+googleAnalytics = 'G-8YNKY92CSD'
