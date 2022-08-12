@@ -1,0 +1,3 @@
+[submodule "habitsblog/themes/DoIt"]
+	path = habitsblog/themes/DoIt
+	url = https://github.com/HEIGE-PCloud/DoIt.git
