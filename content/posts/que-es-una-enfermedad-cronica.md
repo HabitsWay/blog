@@ -5,6 +5,7 @@ date: 2022-08-12T21:32:23+02:00
 authors: [Vanesa]
 draft: false
 description: "Explicamos qué es una enfermedad crónica y ofrecemos datos de la Sociedad Española de Medicina"
+featuredImage: "chronic-desease.jpg"
 
 tags: ["enfermedades crónicas", "cancer"]
 ---

@@ -1,51 +1,65 @@
 baseURL = "https://habitsway.github.io/blog"
-# [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "es"
-# language code
 languageCode = "en"
 title = "Habits Blog"
-
-# Change the default theme to be use when building the site with Hugo
 theme = "DoItHabits"
 
 [params]
-# DoIt theme version
-version = "0.2.X"
+    version = "0.2.X"
+
+    [params.home.profile]
+        enable = true
+        gravatarEmail = "info@habitsway.com"
+        avatarURL = "/images/avatar.webp"
+        title = "Habits Blog"
+        subtitle = "Ejercicio físico y consejos de salud"
+        typeit = true
+        social = true
+        disclaimer = ""
+
+    [params.social]
+        #Twitter = "xxxx"
+        #Instagram = "xxxx"
+        #Facebook = "xxxx"
+        #Telegram = "xxxx"
+        #Whatsapp = ""
+        #Email = "info@habitsway.com"
+        RSS = true
+
 
 [menu]
-[[menu.main]]
-identifier = "posts"
-# you can add extra information before the name (HTML format is supported), such as icons
-pre = ""
-# you can add extra information after the name (HTML format is supported), such as icons
-post = ""
-name = "Posts"
-url = "/posts/"
-# title will be shown when you hover on this menu link
-title = ""
-weight = 1
-[[menu.main]]
-identifier = "tags"
-pre = ""
-post = ""
-name = "Tags"
-url = "/tags/"
-title = ""
-weight = 2
-[[menu.main]]
-identifier = "categories"
-pre = ""
-post = ""
-name = "Categories"
-url = "/categories/"
-title = ""
-weight = 3
+    [[menu.main]]
+        identifier = "posts"
+        # you can add extra information before the name (HTML format is supported), such as icons
+        pre = ""
+        # you can add extra information after the name (HTML format is supported), such as icons
+        post = ""
+        name = "Posts"
+        url = "/posts/"
+        # title will be shown when you hover on this menu link
+        title = ""
+        weight = 1
+    [[menu.main]]
+        identifier = "tags"
+        pre = ""
+        post = ""
+        name = "Tags"
+        url = "/tags/"
+        title = ""
+        weight = 2
+    [[menu.main]]
+        identifier = "categories"
+        pre = ""
+        post = ""
+        name = "Categories"
+        url = "/categories/"
+        title = ""
+        weight = 3
 
-# Markup related configuration in Hugo
 [markup]
-# Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
-[markup.highlight]
-# false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
-noClasses = false
+    # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+    [markup.highlight]
+        # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+        noClasses = false
 
 googleAnalytics = 'G-8YNKY92CSD'

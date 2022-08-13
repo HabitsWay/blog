@@ -5,6 +5,7 @@ date: 2022-08-12T17:07:18+02:00
 authors: [Vanesa]
 draft: false
 description: "Presentación de Habits junto con el objetivo y valores"
+featuredImage: "yoga-featured.jpg"
 
 tags: ["presentación", "habits"]
 ---
