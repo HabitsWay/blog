@@ -1,5 +1,5 @@
 ---
-title: "Qué es una Enfermedad Crónica"
+title: "¿Qué es una Enfermedad Crónica?"
 subtitle: ""
 date: 2022-08-12T21:32:23+02:00
 authors: [Vanesa]
