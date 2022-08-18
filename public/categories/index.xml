@@ -3,7 +3,28 @@
         <title>Categories - Categoría - My Habits</title>
         <link>https://habitsway.github.io/blog/categories/</link>
         <description>Categories - Categoría - My Habits</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 18 Aug 2022 16:37:40 &#43;0200</lastBuildDate><atom:link href="https://habitsway.github.io/blog/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 18 Aug 2022 18:34:46 &#43;0200</lastBuildDate><atom:link href="https://habitsway.github.io/blog/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>ejercicio físico</title>
+    <link>https://habitsway.github.io/blog/categories/ejercicio-f%C3%ADsico/</link>
+    <pubDate>Thu, 18 Aug 2022 18:34:46 &#43;0200</pubDate><author>
+        <name>Autor</name>
+    </author><guid>https://habitsway.github.io/blog/categories/ejercicio-f%C3%ADsico/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>hábitos</title>
+    <link>https://habitsway.github.io/blog/categories/h%C3%A1bitos/</link>
+    <pubDate>Thu, 18 Aug 2022 18:34:46 &#43;0200</pubDate><author>
+        <name>Autor</name>
+    </author><guid>https://habitsway.github.io/blog/categories/h%C3%A1bitos/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>información</title>
+    <link>https://habitsway.github.io/blog/categories/informaci%C3%B3n/</link>
+    <pubDate>Thu, 18 Aug 2022 18:34:46 &#43;0200</pubDate><author>
+        <name>Autor</name>
+    </author><guid>https://habitsway.github.io/blog/categories/informaci%C3%B3n/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>artículo científico</title>
     <link>https://habitsway.github.io/blog/categories/art%C3%ADculo-cient%C3%ADfico/</link>
     <pubDate>Thu, 18 Aug 2022 16:37:40 &#43;0200</pubDate><author>
@@ -11,25 +32,11 @@
     </author><guid>https://habitsway.github.io/blog/categories/art%C3%ADculo-cient%C3%ADfico/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>ejercicio físico</title>
-    <link>https://habitsway.github.io/blog/categories/ejercicio-f%C3%ADsico/</link>
-    <pubDate>Thu, 18 Aug 2022 16:37:40 &#43;0200</pubDate><author>
+    <title>salud</title>
+    <link>https://habitsway.github.io/blog/categories/salud/</link>
+    <pubDate>Fri, 12 Aug 2022 17:07:18 &#43;0200</pubDate><author>
         <name>Autor</name>
-    </author><guid>https://habitsway.github.io/blog/categories/ejercicio-f%C3%ADsico/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>hábitos</title>
-    <link>https://habitsway.github.io/blog/categories/h%C3%A1bitos/</link>
-    <pubDate>Thu, 18 Aug 2022 16:37:40 &#43;0200</pubDate><author>
-        <name>Autor</name>
-    </author><guid>https://habitsway.github.io/blog/categories/h%C3%A1bitos/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>información</title>
-    <link>https://habitsway.github.io/blog/categories/informaci%C3%B3n/</link>
-    <pubDate>Thu, 18 Aug 2022 16:37:40 &#43;0200</pubDate><author>
-        <name>Autor</name>
-    </author><guid>https://habitsway.github.io/blog/categories/informaci%C3%B3n/</guid>
+    </author><guid>https://habitsway.github.io/blog/categories/salud/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
