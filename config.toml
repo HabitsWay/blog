@@ -1,7 +1,7 @@
 baseURL = "https://habitsway.github.io/blog"
 defaultContentLanguage = "es"
 languageCode = "en"
-title = "Habits Blog"
+title = "My Habits"
 theme = "DoItHabits"
 
 [params]
@@ -11,7 +11,7 @@ theme = "DoItHabits"
         enable = true
         gravatarEmail = "info@habitsway.com"
         avatarURL = "/images/avatar.webp"
-        title = "Habits Blog"
+        title = "My Habits"
         subtitle = "Ejercicio físico y consejos de salud"
         typeit = true
         social = true
@@ -55,6 +55,22 @@ theme = "DoItHabits"
         url = "/categories/"
         title = ""
         weight = 3
+#    [[menu.main]]
+#        identifier = "authors"
+#        pre = ""
+#        post = ""
+#        name = "Authors"
+#        url = "/authors/"
+#        title = ""
+#        weight = 4
+#    [[menu.main]]
+#        identifier = "about"
+#        pre = ""
+#        post = ""
+#        name = "About"
+#        url = "/about/"
+#        title = ""
+#        weight = 5
 
 [markup]
     # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
