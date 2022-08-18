@@ -8,6 +8,7 @@ description: "Explicamos qué es una enfermedad crónica y ofrecemos datos de la
 featuredImage: "chronic-desease.jpg"
 
 tags: ["enfermedades crónicas", "cancer"]
+categories: ["información", "artículo científico", "ejercicio físico", "hábitos"]
 ---
 
 **HABITS**, cómo os presentamos anteriormente, se centra en enfermedades crónicas. ¿Pero qué es una enfermedad crónica? Muchas veces nos hacemos esta pregunta y no sabemos cómo definirla. Las enfermedades crónicas se definen como una enfermedad o afección que dura 3 meses o más y que puede ir empeorando con el tiempo.

@@ -7,7 +7,8 @@ draft: false
 description: "Presentación de Habits junto con el objetivo y valores"
 featuredImage: "yoga-featured.jpg"
 
-tags: ["presentación", "habits"]
+tags: ["salud pública", "ejercicio físico", "enfermedad crónica", "estilos de vida", "enfermedad cardiovascular", "cáncer", "enfermedad respiratoria", "actividad física"]
+categories: ["información", "ejercicio físico", "hábitos", "salud"]
 ---
 
 ## ¿HABITS? ¡Sí!
