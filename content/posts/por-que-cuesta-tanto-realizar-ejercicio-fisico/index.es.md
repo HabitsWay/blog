@@ -2,10 +2,10 @@
 title: "¿Por qué nos cuesta tanto realizar ejercicio físico?"
 subtitle: "Principales barreras a la hora de realizar ejercicio físico"
 date: 2022-09-29T16:28:21+02:00
-authors: [Noemí]
-draft: true
+authors: [Noemi]
+draft: false
 description: "Artículo de divulgación que nos ayudará a detectar las principales barreras por las cuales no se realiza ejercicio físico"
-featuredImage: "chronic-desease.jpg"
+featuredImage: "camino-de-montana.jpg"
 
 tags: ["ejercicio físico", "estilos de vida", "actividad física"]
 categories: ["información", "ejercicio físico", "hábitos"]
