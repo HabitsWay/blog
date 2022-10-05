@@ -1,6 +1,6 @@
 baseURL = "https://habitsway.github.io/blog"
 defaultContentLanguage = "es"
-languageCode = "en"
+languageCode = "es"
 title = "My Habits"
 theme = "DoItHabits"
 
@@ -26,51 +26,110 @@ theme = "DoItHabits"
         #Email = "info@habitsway.com"
         RSS = true
 
-
-[menu]
-    [[menu.main]]
-        identifier = "posts"
-        # you can add extra information before the name (HTML format is supported), such as icons
-        pre = ""
-        # you can add extra information after the name (HTML format is supported), such as icons
-        post = ""
-        name = "Posts"
-        url = "/posts/"
-        # title will be shown when you hover on this menu link
-        title = ""
+[languages]
+    [languages.es]
         weight = 1
-    [[menu.main]]
-        identifier = "tags"
-        pre = ""
-        post = ""
-        name = "Tags"
-        url = "/tags/"
-        title = ""
+        title = "My Habits"
+        subtitle = "Ejercicio físico y consejos de salud"
+        languageCode = "es"
+        languageName = "Español"
+
+        [languages.es.menu]
+            [[languages.es.menu.main]]
+                identifier = "posts"
+                # you can add extra information before the name (HTML format is supported), such as icons
+                pre = ""
+                # you can add extra information after the name (HTML format is supported), such as icons
+                post = ""
+                name = "Entradas"
+                url = "/posts/"
+                # title will be shown when you hover on this menu link
+                title = ""
+                weight = 1
+            [[languages.es.menu.main]]
+                identifier = "tags"
+                pre = ""
+                post = ""
+                name = "Tags"
+                url = "/tags/"
+                title = ""
+                weight = 2
+            [[languages.es.menu.main]]
+                identifier = "categories"
+                pre = ""
+                post = ""
+                name = "Categorías"
+                url = "/categories/"
+                title = ""
+                weight = 3
+        #    [[menu.main]]
+        #        identifier = "authors"
+        #        pre = ""
+        #        post = ""
+        #        name = "Authors"
+        #        url = "/authors/"
+        #        title = ""
+        #        weight = 4
+        #    [[menu.main]]
+        #        identifier = "about"
+        #        pre = ""
+        #        post = ""
+        #        name = "About"
+        #        url = "/about/"
+        #        title = ""
+        #        weight = 5
+
+    [languages.en]
         weight = 2
-    [[menu.main]]
-        identifier = "categories"
-        pre = ""
-        post = ""
-        name = "Categories"
-        url = "/categories/"
-        title = ""
-        weight = 3
-#    [[menu.main]]
-#        identifier = "authors"
-#        pre = ""
-#        post = ""
-#        name = "Authors"
-#        url = "/authors/"
-#        title = ""
-#        weight = 4
-#    [[menu.main]]
-#        identifier = "about"
-#        pre = ""
-#        post = ""
-#        name = "About"
-#        url = "/about/"
-#        title = ""
-#        weight = 5
+        title = "My Habits"
+        subtitle = "Physical exercise and health tips"
+        languageCode = "en"
+        languageName = "English"
+
+        [languages.en.menu]
+            [[languages.en.menu.main]]
+                identifier = "posts"
+                # you can add extra information before the name (HTML format is supported), such as icons
+                pre = ""
+                # you can add extra information after the name (HTML format is supported), such as icons
+                post = ""
+                name = "Posts"
+                url = "/posts/"
+                # title will be shown when you hover on this menu link
+                title = ""
+                weight = 1
+            [[languages.en.menu.main]]
+                identifier = "tags"
+                pre = ""
+                post = ""
+                name = "Tags"
+                url = "/tags/"
+                title = ""
+                weight = 2
+            [[languages.en.menu.main]]
+                identifier = "categories"
+                pre = ""
+                post = ""
+                name = "Categories"
+                url = "/categories/"
+                title = ""
+                weight = 3
+            #    [[menu.main]]
+            #        identifier = "authors"
+            #        pre = ""
+            #        post = ""
+            #        name = "Authors"
+            #        url = "/authors/"
+            #        title = ""
+            #        weight = 4
+            #    [[menu.main]]
+            #        identifier = "about"
+            #        pre = ""
+            #        post = ""
+            #        name = "About"
+            #        url = "/about/"
+            #        title = ""
+            #        weight = 5
 
 [markup]
     # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
