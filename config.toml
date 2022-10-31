@@ -62,14 +62,14 @@ theme = "DoItHabits"
                 url = "/categories/"
                 title = ""
                 weight = 3
-        #    [[menu.main]]
-        #        identifier = "authors"
-        #        pre = ""
-        #        post = ""
-        #        name = "Authors"
-        #        url = "/authors/"
-        #        title = ""
-        #        weight = 4
+            [[languages.es.menu.main]]
+                identifier = "authors"
+                pre = ""
+                post = ""
+                name = "Autores"
+                url = "/authors/"
+                title = ""
+                weight = 4
         #    [[menu.main]]
         #        identifier = "about"
         #        pre = ""
@@ -114,14 +114,14 @@ theme = "DoItHabits"
                 url = "/categories/"
                 title = ""
                 weight = 3
-            #    [[menu.main]]
-            #        identifier = "authors"
-            #        pre = ""
-            #        post = ""
-            #        name = "Authors"
-            #        url = "/authors/"
-            #        title = ""
-            #        weight = 4
+            [[languages.en.menu.main]]
+                identifier = "authors"
+                pre = ""
+                post = ""
+                name = "Authors"
+                url = "/authors/"
+                title = ""
+                weight = 4
             #    [[menu.main]]
             #        identifier = "about"
             #        pre = ""
