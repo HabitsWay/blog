@@ -138,3 +138,6 @@ theme = "DoItHabits"
         noClasses = false
 
 googleAnalytics = 'G-8YNKY92CSD'
+
+[taxonomies]
+author = "authors"
