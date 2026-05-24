@@ -5,7 +5,7 @@ date: 2022-08-12T21:32:23+02:00
 authors: [Vanesa]
 draft: false
 description: "We explain what a chronic disease is and offer data from the Spanish Society of Medicine"
-featuredImage: "chronic-desease.jpg"
+featuredImage: ""
 
 tags: ["enfermedades crónicas", "cancer"]
 categories: ["información", "artículo científico", "ejercicio físico", "hábitos"]
